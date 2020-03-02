@@ -2,9 +2,9 @@
   "name": "alejandroam91-sudo",
   "version": "0.1.0",
   "author": "Alejandro Alonso Mayo",
-  "summary": "",
+  "summary": "Installs, configures, and manages sudo.",
   "license": "MIT",
-  "source": "",
+  "source": "https://github.com/AlejandroAM91/puppet-sudo",
   "dependencies": [
 
   ],
@@ -12,13 +12,7 @@
     {
       "operatingsystem": "Debian",
       "operatingsystemrelease": [
-        "9"
-      ]
-    },
-    {
-      "operatingsystem": "Ubuntu",
-      "operatingsystemrelease": [
-        "18.04"
+        "10"
       ]
     }
   ],
