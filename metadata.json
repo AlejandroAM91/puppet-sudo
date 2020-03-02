@@ -1,0 +1,30 @@
+{
+  "name": "alejandroam91-sudo",
+  "version": "0.0.0",
+  "author": "Alejandro Alonso Mayo",
+  "summary": "Installs, configures, and manages sudo.",
+  "license": "MIT",
+  "source": "https://github.com/AlejandroAM91/puppet-sudo",
+  "project_page": "https://github.com/AlejandroAM91/puppet-sudo",
+  "issues_url": "https://github.com/AlejandroAM91/puppet-sudo/issues",
+  "dependencies": [
+
+  ],
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Debian",
+      "operatingsystemrelease": [
+        "10"
+      ]
+    }
+  ],
+  "requirements": [
+    {
+      "name": "puppet",
+      "version_requirement": ">= 4.10.0 < 7.0.0"
+    }
+  ],
+  "pdk-version": "1.15.0",
+  "template-url": "pdk-default#1.15.0",
+  "template-ref": "tags/1.15.0-0-g0bc522e"
+}
