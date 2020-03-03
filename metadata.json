@@ -1,6 +1,6 @@
 {
   "name": "alejandroam91-sudo",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Alejandro Alonso Mayo",
   "summary": "Installs, configures, and manages sudo.",
   "license": "MIT",
